@@ -2,6 +2,8 @@ andaily-developer
 =================
 
 A Scrum application that from <a href="http://andaily.com">andaily.com</a>
+<br/>
+<h2>About of the latest activity please visit <a href="http://git.oschina.net/mkk/andaily-developer">http://git.oschina.net/mkk/andaily-developer</a> </h2>
 
 <hr/>
 
